@@ -1,0 +1,8 @@
+{
+  "name": "Flappy Jet Online",
+  "description": "Trò chơi Flappy Jet phong cách máy bay vượt cao ốc, chế độ Online tạo phòng, Đấu đối kháng ngẫu nhiên, Offline, Bảng xếp hạng thời gian thực. Người sáng lập: SDS Gdreed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
